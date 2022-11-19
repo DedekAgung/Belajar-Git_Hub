@@ -1,5 +1,7 @@
 Fitur yang ada
 
 Login
+  -password tidak terlihat
 list
+  -list akan lebih rapi dan simple
 logout
