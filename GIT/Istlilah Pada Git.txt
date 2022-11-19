@@ -16,3 +16,4 @@ Istilah-Istilah Pada Git
 -pull request, meminta pemilik repo untuk mengambil/menarik perubahan yang dibuat ke master branch.
 -merge conflict, ketika baris yang sama diubah olah 2 orang/2 branch yang berbeda.
 -resolve conflict, pemilihkan mau menggunakan line yang mana untuk masuk ke master branch.
+-Forking/Fork, Menduplicate repo milik orang lain agar dicopy ke akun github kita
