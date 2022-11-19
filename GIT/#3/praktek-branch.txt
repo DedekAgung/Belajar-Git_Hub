@@ -1,7 +1,9 @@
 Fitur yang ada
 
 Login
-  -password tidak terlihat
 list
+  -list dibuat lebih mencolok
+  -password tidak terlihat
   -list akan lebih rapi dan simple
 logout
+  -menghapus logout karena tidak ada login
