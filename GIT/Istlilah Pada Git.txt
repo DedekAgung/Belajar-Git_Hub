@@ -1,0 +1,14 @@
+Istilah-Istilah Pada Git
+
+
+-Repository/Repo, sebutan folder pada git/github.
+-Commit, rekaman/snapshot dari perubahan repo.
+-Snapshot, rekaman perubahan.
+-Hash, penanda unik pada sebuah commit.
+-Checkout, berpindah ke sebuah commit.
+-Branch, cabang dari sebuah commit.
+-Merge, menggabungkan 2 cabang atau lebih pada commit.
+-Remote, sumber yang memiliki repo.
+-Clone, mengambil repo dari remote.
+-Pull, proses mengambil commit dari repo.
+-Push, proses mengirim commit ke repo.
