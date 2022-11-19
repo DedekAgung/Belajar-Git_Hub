@@ -12,3 +12,7 @@ Istilah-Istilah Pada Git
 -Clone, mengambil repo dari remote.
 -Pull, proses mengambil commit dari repo.
 -Push, proses mengirim commit ke repo.
+-master branch, jalur utama pada branch.
+-pull request, meminta pemilik repo untuk mengambil/menarik perubahan yang dibuat ke master branch.
+-merge conflict, ketika baris yang sama diubah olah 2 orang/2 branch yang berbeda.
+-resolve conflict, pemilihkan mau menggunakan line yang mana untuk masuk ke master branch.
