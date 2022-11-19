@@ -1,5 +1,8 @@
 Fitur yang ada
 
 Login
+  -menghapus login karena tidak berguna
 list
+  -list dibuat lebih mencolok
 logout
+  -menghapus logout karena tidak ada login
